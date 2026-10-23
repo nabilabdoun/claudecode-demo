@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "g12-prep-dashboard",
+      "runtimeExecutable": "C:\\Users\\nkabd\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+      "runtimeArgs": ["-m", "streamlit", "run", "g12_prep_dashboard/app.py", "--server.headless", "true"],
+      "port": 8501
+    }
+  ]
+}
