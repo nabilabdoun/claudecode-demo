@@ -23,7 +23,7 @@ APP_PATH = os.path.join(BASE_DIR, "data", "prep_app_export.csv")
 SCORES_PATH = os.path.join(BASE_DIR, "data", "questionmark_scores.csv")
 
 STEP_LABELS = {
-    "registered": "Registered",
+    "registered": "Registered applicants",
     "password_set": "Password set",
     "orientation_done": "Orientation done",
     "started_learning": "Started a topic",
